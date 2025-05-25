@@ -1,0 +1,14 @@
+C:\POO\04estatic\bin\Debug\net9.0\04estatic.exe
+C:\POO\04estatic\bin\Debug\net9.0\04estatic.deps.json
+C:\POO\04estatic\bin\Debug\net9.0\04estatic.runtimeconfig.json
+C:\POO\04estatic\bin\Debug\net9.0\04estatic.dll
+C:\POO\04estatic\bin\Debug\net9.0\04estatic.pdb
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.AssemblyInfoInputs.cache
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.AssemblyInfo.cs
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.csproj.CoreCompileInputs.cache
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.dll
+C:\POO\04estatic\obj\Debug\net9.0\refint\04estatic.dll
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.pdb
+C:\POO\04estatic\obj\Debug\net9.0\04estatic.genruntimeconfig.cache
+C:\POO\04estatic\obj\Debug\net9.0\ref\04estatic.dll
